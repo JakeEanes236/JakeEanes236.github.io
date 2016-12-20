@@ -145,6 +145,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
   background: #18BC9C;
+  border-radius: 20px;
 }
 .navbar-custom .navbar-toggle {
   color: white;
